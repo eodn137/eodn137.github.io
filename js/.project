@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>eodn137.github.io</name>
+	<name>js</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,16 +15,3 @@
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
 </projectDescription>
-=======
-<?xml version="1.0" encoding="UTF-8"?>
-<projectDescription>
-	<name>eodn137.github.io</name>
-	<comment></comment>
-	<projects>
-	</projects>
-	<buildSpec>
-	</buildSpec>
-	<natures>
-	</natures>
-</projectDescription>
->>>>>>> 66e8e709cc48febcfa32c78c59c79c69e4e1b463
